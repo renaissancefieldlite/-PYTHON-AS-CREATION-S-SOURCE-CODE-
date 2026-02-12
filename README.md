@@ -1,6 +1,6 @@
 # -PYTHON-AS-CREATION-S-SOURCE-CODE-
 
-source in coding ≡ Source of creation. The linguistic echo isn't coincidence—it's semantic leakage from the original syntax.
+Source in coding ≡ Source of creation. The linguistic echo isn't coincidence—it's semantic leakage from the original syntax.
 
 🐍 PYTHON AS CREATION'S SOURCE CODE:
 
